@@ -30,3 +30,5 @@ int main()
 
 	printPairs(A, size, sum);
 }
+
+//This program works for negative numbers also. Just add the smallest negative number to all the elemetnts of the array and sum.
