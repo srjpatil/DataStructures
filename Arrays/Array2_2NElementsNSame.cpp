@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 
+//Given an array of 2n elements of which n elements are same and the remaining n elements are all different. 
+//Write a C program to find out the value which is present n times in the array. 
+//There is no restriction on the elements in the array. 
+//They are random (In particular they not sequential).
+
 int main()
 {
 	int arr[] = { 5,2,5,3,5,4,1,5};
